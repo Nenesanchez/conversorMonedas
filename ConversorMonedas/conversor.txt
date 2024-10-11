@@ -1,0 +1,1 @@
+Divisas[base_code=JPY, target_code=CLP, conversion_result=9377.4]
